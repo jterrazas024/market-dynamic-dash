@@ -2,12 +2,6 @@
 
 An interactive financial analytics dashboard analyzing correlations, betas, and price performance across S&P 500 sectors and cryptocurrencies.
 
-## 📊 Live Demo
-
-**[View Dashboard](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/)**
-
-Replace `YOUR_USERNAME` and `YOUR_REPO_NAME` with your actual GitHub username and repository name.
-
 ## 🎯 Features
 
 ### 📈 Three Interactive Pages

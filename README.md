@@ -115,8 +115,6 @@ MIT License - feel free to use and modify
 ## 👤 Author
 
 **Jose Terrazas**
-- Market Risk Manager
-- [GitHub](https://github.com/YOUR_USERNAME)
 
 ## 🙏 Acknowledgments
 
